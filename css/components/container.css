@@ -1,0 +1,10 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+h2 {
+  font-size: 40px;
+  color: #00263b;
+  margin: 100px;
+}
